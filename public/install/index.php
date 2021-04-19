@@ -80,7 +80,7 @@ $product_info=$api->get_latest_version();
                 }
 
                 if(!extension_loaded('ctype')){
-                  $errors = false; 
+                  $errors = true; 
                   echo "<div class='notification is-danger' style='padding:12px;'><i class='fa fa-times'></i> CTYPE PHP extension missing!</div>";
                 }else{
                   echo "<div class='notification is-success' style='padding:12px;'><i class='fa fa-check'></i> CTYPE PHP extension available</div>";
