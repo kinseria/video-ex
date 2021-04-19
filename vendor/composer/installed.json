@@ -2701,7 +2701,7 @@
             "shasum": ""
         },
         "require": {
-            "ext-ctype": "*",
+            "ext-ctyp": "*",
             "ext-dom": "*",
             "ext-fileinfo": "*",
             "ext-gd": "*",
@@ -3606,7 +3606,7 @@
             "squizlabs/php_codesniffer": "^3.5"
         },
         "suggest": {
-            "ext-ctype": "Provides support for PHP Ctype functions",
+            "ext-ctyp": "Provides support for PHP Ctype functions",
             "ext-libsodium": "Provides the PECL libsodium extension for use with the SodiumRandomGenerator",
             "ext-openssl": "Provides the OpenSSL extension for use with the OpenSslGenerator",
             "ext-uuid": "Provides the PECL UUID extension for use with the PeclUuidTimeGenerator and PeclUuidRandomGenerator",
@@ -5206,7 +5206,7 @@
             "php": ">=5.3.3"
         },
         "suggest": {
-            "ext-ctype": "For best performance"
+            "ext-ctyp": "For best performance"
         },
         "time": "2020-01-13T11:15:53+00:00",
         "type": "library",
