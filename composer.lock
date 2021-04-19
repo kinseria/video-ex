@@ -2646,7 +2646,7 @@
             },
             "suggest": {
                 "ext-ctype": "Provides support for PHP Ctype functions",
-                 "ext-bcmath": "Provides support for PHP image",
+                "ext-bcmath": "Provides support for PHP Image",
                 "ext-libsodium": "Provides the PECL libsodium extension for use with the SodiumRandomGenerator",
                 "ext-openssl": "Provides the OpenSSL extension for use with the OpenSslGenerator",
                 "ext-uuid": "Provides the PECL UUID extension for use with the PeclUuidTimeGenerator and PeclUuidRandomGenerator",
